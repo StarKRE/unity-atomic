@@ -1,1 +1,1 @@
-- Required Odin Inspector
+- Required **Odin Inspector v3.2.1.0**
