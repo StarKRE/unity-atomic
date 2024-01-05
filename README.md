@@ -1,1 +1,4 @@
-- Required **Odin Inspector v3.2.1.0**
+**Requirements:**
+- Unity 2021+
+- C# 8.0+
+- Odin Inspector
